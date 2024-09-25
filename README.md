@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I'm Taiten. I wanna get good at coding.
+
+I will add more to this later
