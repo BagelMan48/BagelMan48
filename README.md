@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Taiten. I wanna get good at coding.
+Hey, I'm Taiten. Future Software Engineer, but for now currently a student at California State University, Los Angeles!
 
 I will add more to this later
